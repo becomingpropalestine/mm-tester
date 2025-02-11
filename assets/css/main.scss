@@ -1,0 +1,28 @@
+---
+---
+
+@import "minimal-mistakes"; /* Only if using Minimal Mistakes */
+
+.page {
+  max-width: 1200px !important;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Reduce the footer size */
+.small-footer {
+  font-size: 12px; /* Make text smaller */
+  padding: 2px 0;  /* Minimize spacing */
+  margin-top: 5px; /* Reduce space above footer */
+  text-align: center;
+  line-height: 1.2; /* Reduce line spacing */
+}
+
+/* Override theme's default large footer */
+.page__footer {
+  padding: 0 !important;
+  margin: 0 !important;
+  height: auto !important;
+  min-height: 0 !important;
+}
+
