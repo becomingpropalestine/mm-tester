@@ -1,57 +1,46 @@
+# main links
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "News"
     url: /news/
-#  - title: "Categories"
-#    url: /categories/
-#  - title: "Tags"
-#    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Testing"
+    url: /testing/
+#  - title: "About"
+#    url: /about/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
 
-docs:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
 
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-
-  - title: Content
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
-
+global:
+  - title: "Getting Started"
+    url: /docs/getting-started/
+#  - title: "Installation"
+#    url: /docs/installation/
+#  - title: "Configuration"
+#    url: /docs/configuration/
+#  - title: "Customization"
+#    url: /docs/customization/
+#  - title: "Navigation"
+#    url: /docs/navigation/
+#  - title: "External Resources"
+#    children:
+#      - title: "Dark Gothic MAGA"
+#        icon: "fa-brands fa-youtube"
+#        url: https://www.youtube.com/watch?v=5RpPTRcz1no
+#      - title: "VC Info Docs"
+#        icon: "fas fa-fw fa-link"        
+#        url: https://www.vcinfodocs.com
+#      - title: "Child Page A3"
+#        url: /child-page-a3/
+#      - title: "Child Page A4"
+#        url: /child-page-a4/
+#      - title: "The 99 Society"
+#        icon: "fa-brands fa-reddit"
+#        url: "https://www.reddit.com/r/The99Society/"

@@ -1,0 +1,34 @@
+---
+layout: archive
+sidebar:
+  nav: "global"
+---
+
+<div class="wrapper wide-page">
+  <div class="page__content">
+    {{ content }}
+  </div>
+</div>
+
+<style>
+/* Custom Wide Layout */
+.wrapper.wide-page {
+    max-width: 1200px !important; /* Adjust width */
+    width: 100%;
+    margin: auto;
+}
+
+/* Make the content area use more width */
+.page__content {
+    max-width: 100% !important;
+    width: 95%;
+    margin: auto;
+}
+
+/* Ensure tables expand */
+table {
+    width: 100%;
+    max-width: 1200px;
+}
+</style>
+
