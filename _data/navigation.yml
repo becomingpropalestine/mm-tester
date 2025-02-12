@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "News"
     url: /news/
-  - title: "Testing"
-    url: /testing/
+#  - title: "Testing"
+#    url: /testing/
 #  - title: "About"
 #    url: /about/
   # - title: "About"
@@ -19,8 +19,8 @@ main:
 
 
 global:
-  - title: "Getting Started"
-    url: /docs/getting-started/
+  - title: "News Highlights"
+    url: /news/
 #  - title: "Installation"
 #    url: /docs/installation/
 #  - title: "Configuration"

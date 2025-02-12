@@ -7,23 +7,9 @@ author_profile: true
 sidebar:
   nav: "global"
 ---
-News highlights
+<h1>News Highlights</h1>
 
 <style>
-/* Expand the main content area while keeping the sidebar */
-.layout--archive .wrapper {
-    max-width: 100% !important; /* Make full width */
-    width: 95% !important; /* Adjust as needed */
-    margin: auto; /* Center the content */
-}
-
-/* Expand the content area inside the wrapper */
-.layout--archive .page__content {
-    max-width: 1600px !important; /* Adjust width */
-    width: 90% !important;
-    margin: auto;
-}
-
   /* Style for a lighter separator line */
   table {
     border-collapse: collapse;
