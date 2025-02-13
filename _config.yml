@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Coup Explained"
+title                    : "The Coup Explained"
 title_separator          : "-"
 subtitle                 : # "Together we can stop the coup and save American democracy"
-name                     : "Coup Explained"
-description              : "Together we can stop the coup and save American democracy"
+name                     : "The Coup Explained"
+description              : "Together we can stop the coup and save American democracy!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : # "Coup Explained"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Together we can stop the coup and save democracy"
+  bio              : "Together we can stop the coup and save democracy!"
   location         : #"EXTERNAL RESOURCES"
   email            :
   links:
@@ -128,6 +128,9 @@ author:
     - label: "The 99 Society"
       icon: "fa-brands fa-reddit"
       url: "https://www.reddit.com/r/The99Society/"
+    - label: "Billionaire Conspiracy"
+      icon: "fas fa-fw fa-link"
+      url: "https://billionaireconspiracy.com/"
 
 
 
