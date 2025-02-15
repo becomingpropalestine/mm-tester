@@ -44,11 +44,15 @@ sidebar:
   }
 
 
-@media (min-width: 769px) {
+@media (min-width: 1200px) {
   td.no-wrap {
     white-space: nowrap; /* Prevents line breaks */
   }
 }
+
+
+
+
 
 /* General style for highlighted text inside <p> */
 .highlight-test {
