@@ -10,21 +10,24 @@ sidebar:
 
 <div style="font-size: 0.625em;" markdown="1">
 
-House Budget Resolution Introduced February 12, 2025:<br>
+House Republicans introduced a budget resolution on February 12, 2025 that calls for major tax cuts for wealthy individuals and corporations.
+
+Full bill text can be found here:<br>
 <a href="https://docs.house.gov/meetings/BU/BU00/20250213/117894/BILLS-119NAih.pdf">Establishing the congressional budget for the United States Government for fiscal year 2025 and setting forth the appropriate budgetary levels for fiscal years 2026 through 2034.</a>
 
+We ran the bill through ChatGPT for a summary and interpretation.
 
 Jump to Prompts:
 
-0. [Please summarize this budget resolution.](#prompt-0)
-1. [You are an economics expert and won the Nobel Prize in economics. You are also a legal scholar. Please review this budget resolution. Give an analysis and opinion. Who will this impact positively and who will this impact negatively.](#prompt-1)
-2. [You are also a public policy and international relations expert. Where would this budget resolution place us with respect to other countries in the world.](#prompt-2)
-3. [If this budget resolution passes, what are the specific negative impacts that you foresee happening in the next 3-6-12 months. What are the specific positive impacts that you foresee.](#prompt-3)
-4. [Please do the same positive/negative, but at the 5 year mark. Then compare to where the US is now and assess whether the US is better or worse off, using whatever metric(s) you prefer.](#prompt-4)
+1. [Please summarize this budget resolution.](#prompt-1)
+2. [You are an economics expert and won the Nobel Prize in economics. You are also a legal scholar. Please review this budget resolution. Give an analysis and opinion. Who will this impact positively and who will this impact negatively.](#prompt-2)
+3. [You are also a public policy and international relations expert. Where would this budget resolution place us with respect to other countries in the world.](#prompt-3)
+4. [If this budget resolution passes, what are the specific negative impacts that you foresee happening in the next 3-6-12 months. What are the specific positive impacts that you foresee.](#prompt-4)
+5. [Please do the same positive/negative, but at the 5 year mark. Then compare to where the US is now and assess whether the US is better or worse off, using whatever metric(s) you prefer.](#prompt-5)
 
 <hr style="border: 3px solid black;">
 
-### **Prompt 0**
+### **Prompt 1**
 
 Please summarize this budget resolution.
 
@@ -64,7 +67,7 @@ This resolution serves as a framework for enacting President Trump's domestic po
 
 <hr style="border: 3px solid black;">
 
-### **Prompt 1**
+### **Prompt 2**
 
 You are an economics expert and won the Nobel Prize in economics. You are also a legal scholar. Please review this budget resolution. Give an analysis and opinion. Who will this impact positively and who will this impact negatively.
 
@@ -152,7 +155,7 @@ This budget resolution reflects a **conservative fiscal approach** that prioriti
 
 <hr style="border: 3px solid black;">
 
-### **Prompt 2**
+### **Prompt 3**
 
 You are also a public policy and international relations expert. Where would this budget resolution place us with respect to other countries in the world.
 
@@ -255,7 +258,7 @@ This budget resolution, with its emphasis on **deficit reduction, deregulation, 
 
 <hr style="border: 3px solid black;">
 
-##### **Prompt 3**
+##### **Prompt 4**
 
 If this budget resolution passes, what are the specific negative impacts that you foresee happening in the next 3-6-12 months. What are the specific positive impacts that you foresee.
 
@@ -395,7 +398,7 @@ If this budget resolution passes, its effects will unfold in different stages, i
 
 <hr style="border: 3px solid black;">
 
-##### **Prompt 4**
+##### **Prompt 5**
 
 Please do the same positive/negative, but at the 5 year mark. Then compare to where the US is now and assess whether the US is better or worse off, using whatever metric(s) you prefer.
 

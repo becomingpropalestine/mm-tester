@@ -31,6 +31,20 @@ global:
     children:
       - title: "Budget Resolution 021225"
         url: /analysis/budget-resolution-BILLS-119NAih-021225/
+  - title: "Organizations"
+    children:
+      - title: "Election Truth Alliance"
+        url: https://electiontruthalliance.org/
+      - title: "Democracy Forward"
+        url: https://democracyforward.org/
+  - title: "Independent Journalists"
+    children:
+      - title: "Letters from an American"
+        url: https://heathercoxrichardson.substack.com/
+      - title: "Mueller She Wrote"
+        url: https://www.muellershewrote.com/
+      - title: "The Parnas Perspective"
+        url: https://aaronparnas.substack.com/
 #  - title: "Installation"
 #    url: /docs/installation/
 #  - title: "Configuration"

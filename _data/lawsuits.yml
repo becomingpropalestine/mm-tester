@@ -1,41 +1,35 @@
 lawsuits:
 
-
-  - title: "tbd"
-    url: "https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjqljepq/Global%20Health%20Council%20v%20Trump%20complaint%202-11.pdf"
-    date: "2025-02-11"
-    press-url-1: "https://www.reuters.com/legal/usaid-contractors-join-others-suing-trump-administration-over-dismantling-agency-2025-02-11/"
-
-
-
-
-
-
-
-
-  - title: "Curtis Yarvin Says Democracy Is Done. Powerful Conservatives Are Listening."
-    publication: "New York Times"
-    url: "https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html"
-    no-paywall: ""
-    date: "2025-01-18"
-    image: "https://static01.nyt.com/images/2025/01/15/magazine/26mag-interview-yarvin-image/26mag-interview-yarvin-image-videoSixteenByNineJumbo1600.jpg"
-
-#  - title: ""
-#    publication: ""
-#    url: ""
+#  - summary: ""
+#    plaintiff: ""
+#    defendant: ""
 #    date: ""
-#    image: ""
+#    lawsuit-url: ""
+#    press-url: ""
+#    docket-url: ""
 
-  - title: "Elon Musk’s Team Now Has Access to Treasury’s Payments System"
-    publication: "New York Times"
-    url: "https://www.nytimes.com/2025/02/01/us/politics/elon-musk-doge-federal-payments-system.html"
-    no-paywall: ""
-    date: "2025-02-01"
-    image: "https://static01.nyt.com/images/2025/02/01/multimedia/01trump-news-musk-ztlq/01trump-news-musk-ztlq-superJumbo.jpg?quality=75&auto=webp"
+  - summary: "Declare unlawful and set aside the Rate Change Notice (NOT-OD-25-068); issue a temporary restraining order and preliminary injunction barring implementation"
+    plaintiff: "22 State Attorneys General: Massachusetts, Michigan, Illinois, Arizona, California, Connecticut, Colorado, Delaware, Hawaii, Maine, Maryland, Minnesota, New Jersey, New York, Nevada, New Mexico, North Carolina, Oregon, Rhode Island, Vermont, Washington, Wisconsin"
+    defendant: "National Institute of Health, Matthew Memoli (Acting Director NIH), Department of Health and Human Services, Dorothy Fink (Acting Secretary HHS)"
+    date: "2025-02-10"
+    lawsuit-url: "https://oag.ca.gov/system/files/attachments/press-docs/ECF%20001%20Complaint%20-%20Mass.%20v.%20NIH.pdf"
+    press-url: "https://oag.ca.gov/news/press-releases/attorney-general-bonta-sues-trump-administration-over-unlawful-nih-funding-cuts"
+    docket-url: "https://www.courtlistener.com/docket/69625055/commonwealth-of-massachusetts-v-national-institutes-of-health/"
 
-  - title: "How Democrats Drove Silicon Valley Into Trump’s Arms: Marc Andreessen explains the newest faction of conservatism."
-    publication: "New York Times"
-    url: "https://www.nytimes.com/2025/01/17/opinion/marc-andreessen-trump-silicon-valley.html"
-    no-paywall: ""
-    date: "2025-01-17"
-    image: "https://static01.nyt.com/images/2025/01/17/podcasts/17moo-tech-right/17moo-tech-right-superJumbo.png?quality=75&auto=webp"
+  - summary: "Declare that Defendants acted unlawfully by giving DOGE-affiliated individuals—or other individuals not authorized by law to view ED records that contain personal information—access to those records"
+    plaintiff: "University of California Student Association"
+    defendant: "Denise Carter, US Department of Education"
+    date: "2025-02-07"
+    lawsuit-url: "https://www.citizen.org/wp-content/uploads/Complaint_2.7.25.pdf"
+    press-url: "https://fedscoop.com/lawsuit-doge-access-education-department-data/"
+    docket-url: ""
+
+  - summary: "Declare that Executive Order 14169 (USAID) is unconstitutional and unlawful."
+    plaintiff: "Global Health Council, Small Business Association for International Companies, HIAS, Management Sciences for Health, Chemonics International, DAI Global, Democracy International, and American Bar Association"
+    defendant: "Donald Trump, Marco Rubio, Peter Marocco, Russell Vought, US Department of State, USAID, and OMB"
+    date: "2025-02-11"
+    lawsuit-url: "https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjqljepq/Global%20Health%20Council%20v%20Trump%20complaint%202-11.pdf"
+    press-url: "https://www.reuters.com/legal/usaid-contractors-join-others-suing-trump-administration-over-dismantling-agency-2025-02-11/"
+    docket-url: ""
+
+

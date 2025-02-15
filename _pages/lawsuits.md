@@ -1,15 +1,17 @@
 ---
-title: Statements
-permalink: /statements/
+title: Lawsuits
+permalink: /lawsuits/
 #layout: wide
-layout: archive
+layout: news
 author_profile: true
 sidebar:
   nav: "global"
 ---
-<h1>Statements</h1>
+<h1>Lawsuits</h1>
 
-<p class="small">Statements from organizations and individuals.<p>
+<p class="small">Summary of legal challenges.</p>
+
+<a href="https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/">Litigation Tracker: Legal Challenges to Trump Administration Actions</a>
 
 <style>
   /* Style for a lighter separator line */
@@ -32,7 +34,7 @@ sidebar:
   }
   /* Hide headers */
   thead {
-    display: none;
+    /* display: none; */
   }
   .no-wrap {
     white-space: nowrap; /* Prevents line breaks */
@@ -49,18 +51,24 @@ sidebar:
 <table class="small-text-table">
   <thead>
     <tr>
-      <th>Article Title</th>
-      <th>Publication</th>
-      <th>Date</th>
+      <th>Summary</th>
+      <th>Plaintiff</th>
+      <th>Defendant</th>
+      <th>Date Filed</th>
+      <th>Lawsuit Doc</th>
+      <th>Press Coverage</th>
     </tr>
   </thead>
   <tbody>
-    {% assign sorted_statements = site.data.statements.statements | sort: "date" | reverse %}
-    {% for item in sorted_statements %}
+    {% assign sorted_links = site.data.lawsuits.lawsuits | sort: "date" | reverse %}
+    {% for item in sorted_links %}
     <tr>
-      <td>{{ item.organization }}</td>
+      <td>{{ item.summary }}</td>
+      <td>{{ item.plaintiff }}</td>
+      <td>{{ item.defendant }}</td>
       <td class="no-wrap">{{ item.date }}</td>
-      <td><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></td>
+      <td><a href="{{ item.lawsuit-url }}" target="_blank">lawsuit pdf</a></td>
+      <td><a href="{{ item.press-url }}" target="_blank">press coverage</a></td>
     </tr>
     {% endfor %}
   </tbody>

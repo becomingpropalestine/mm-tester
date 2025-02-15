@@ -1,6 +1,13 @@
 statements:
 
 
+
+
+  - organization: "Election Truth Alliance"
+    title: "'Vote-Counting Computers': Data Analysts Recommend Investigation into 2024 Pennsylvania Election Results"
+    url: "https://img1.wsimg.com/blobby/go/9087f51c-d3bd-4002-9943-79706c6e82a3/Election%20Truth%20Alliance_Pennsylvania%20Overview%20.pdf"
+    date: "2025-02-11"
+
   - organization: "American Bar Association"
     title: "The ABA supports the rule of law"
     url: "https://www.americanbar.org/news/abanews/aba-news-archives/2025/02/aba-supports-the-rule-of-law/"
@@ -12,3 +19,7 @@ statements:
     date: "2025-02-11"
 
 
+  - organization: "Danielle Sassoon, US Attorney"
+    title: "To Pam Bondi, Attorney General; Re: United States v. Eric Adams, 24 Cr. 556 (DEH)"
+    url: "https://static01.nyt.com/newsgraphics/documenttools/24535586a908999e/3801d435-full.pdf"
+    date: "2025-02-12"
