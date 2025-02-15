@@ -103,7 +103,24 @@ sidebar:
   background-color: #6c757d; /* Gray */
 }
 
+/* General button styling */
+button {
+  color: black !important; /* Force black text */
+  text-decoration: none; /* Remove underline if it's appearing */
+}
 
+/* Ensure no browser override on mobile */
+@media (max-width: 768px) {
+  button {
+    color: black !important;
+  }
+}
+
+/* Prevent iOS from styling as a link */
+button:focus, button:active {
+  color: black !important;
+  text-decoration: none;
+}
 
 
 
