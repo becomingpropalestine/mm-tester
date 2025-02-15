@@ -51,6 +51,11 @@ sidebar:
 }
 
 
+@media (max-width: 768px) {
+  .hide-on-mobile {
+    display: none;
+  }
+}
 
 
 
@@ -158,7 +163,7 @@ Topic: All
     <tr data-type="{{ item.type }}">
       <td>{{ item.publication }}</td>
       <td class="no-wrap">{{ item.date }}</td>
-      <td class="no-wrap"><div class="highlight-test type-{{ item.type | downcase | replace: ' ', '-' }}">{{ item.type }}</div></td>
+      <td class="no-wrap hide-on-mobile"><div class="highlight-test type-{{ item.type | downcase | replace: ' ', '-' }}">{{ item.type }}</div></td>
       <td><a href="{{ item.url }}" target="_blank">{{ item.title }}</a> (<a href="{{ item.no-paywall }}" target="_blank">no paywall</a>)</td>
     </tr>
     {% endfor %}
