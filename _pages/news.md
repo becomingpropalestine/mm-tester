@@ -35,9 +35,7 @@ sidebar:
   thead {
     display: none;
   }
-  .no-wrap {
-    white-space: nowrap; /* Prevents line breaks */
-  }
+
   .small-text-table {
     font-size: 14px; /* Adjust this size as needed */
     width: 100% !important;
@@ -45,6 +43,12 @@ sidebar:
     table-layout: auto;
   }
 
+
+@media (min-width: 769px) {
+  td.no-wrap {
+    white-space: nowrap; /* Prevents line breaks */
+  }
+}
 
 /* General style for highlighted text inside <p> */
 .highlight-test {
