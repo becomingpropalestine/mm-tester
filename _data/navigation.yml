@@ -6,6 +6,10 @@ main:
     url: /start-here/
   - title: "News Feed"
     url: /news/
+  - title: "Statements"
+    url: /statements/
+#  - title: "Analysis"
+#    url: /analysis/
 #  - title: "Testing"
 #    url: /testing/
 #  - title: "About"
@@ -23,6 +27,10 @@ main:
 global:
   - title: "News Highlights"
     url: /news/
+  - title: "Analysis"
+    children:
+      - title: "Budget Resolution 021225"
+        url: /analysis/budget-resolution-BILLS-119NAih-021225/
 #  - title: "Installation"
 #    url: /docs/installation/
 #  - title: "Configuration"

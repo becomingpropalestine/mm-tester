@@ -1,42 +1,41 @@
-links:
+lawsuits:
 
-#  - title: ""
-#    publication: ""
-#    url: ""
-#    no-paywall: ""
-#    date: ""
-#    image: ""
 
-  - title: "Trump Wants to Destroy All Academia, Not Just the Woke Parts"
-    publication: "New York Times"
-    url: "https://www.nytimes.com/2025/02/14/opinion/trump-college-academia-woke.html"
-    no-paywall: "https://archive.ph/oYCxn"
-    date: "2025-02-14"
+  - title: "tbd"
+    url: "https://fingfx.thomsonreuters.com/gfx/legaldocs/lbvgjqljepq/Global%20Health%20Council%20v%20Trump%20complaint%202-11.pdf"
+    date: "2025-02-11"
+    press-url-1: "https://www.reuters.com/legal/usaid-contractors-join-others-suing-trump-administration-over-dismantling-agency-2025-02-11/"
 
-  - title: "A US Treasury Threat Intelligence Analysis Designates DOGE Staff as 'Insider Threat'"
-    publication: "Wired"
-    url: "http://wired.com/story/treasury-bfs-doge-insider-threat/"
-    no-paywall: "https://archive.ph/mHMBo"
-    date: "2025-02-07"
-    image: "https://media.wired.com/photos/67a5780a3db8a39034cfab44/master/w_2240,c_limit/Politics_Treasury_GettyImages-2195767451.jpg"
+
+
+
+
+
+
 
   - title: "Curtis Yarvin Says Democracy Is Done. Powerful Conservatives Are Listening."
     publication: "New York Times"
     url: "https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html"
-    no-paywall: "https://archive.ph/lGkKV"
+    no-paywall: ""
     date: "2025-01-18"
     image: "https://static01.nyt.com/images/2025/01/15/magazine/26mag-interview-yarvin-image/26mag-interview-yarvin-image-videoSixteenByNineJumbo1600.jpg"
+
+#  - title: ""
+#    publication: ""
+#    url: ""
+#    date: ""
+#    image: ""
 
   - title: "Elon Musk’s Team Now Has Access to Treasury’s Payments System"
     publication: "New York Times"
     url: "https://www.nytimes.com/2025/02/01/us/politics/elon-musk-doge-federal-payments-system.html"
-    no-paywall: "https://archive.ph/c2zrP"
+    no-paywall: ""
     date: "2025-02-01"
     image: "https://static01.nyt.com/images/2025/02/01/multimedia/01trump-news-musk-ztlq/01trump-news-musk-ztlq-superJumbo.jpg?quality=75&auto=webp"
 
   - title: "How Democrats Drove Silicon Valley Into Trump’s Arms: Marc Andreessen explains the newest faction of conservatism."
     publication: "New York Times"
     url: "https://www.nytimes.com/2025/01/17/opinion/marc-andreessen-trump-silicon-valley.html"
-    no-paywall: "https://archive.ph/rVUAf"
+    no-paywall: ""
     date: "2025-01-17"
     image: "https://static01.nyt.com/images/2025/01/17/podcasts/17moo-tech-right/17moo-tech-right-superJumbo.png?quality=75&auto=webp"

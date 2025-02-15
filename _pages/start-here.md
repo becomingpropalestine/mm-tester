@@ -1,15 +1,12 @@
 ---
-title: News
-permalink: /news/
+title: Start Here
+permalink: /start-here/
 #layout: wide
-layout: news
+layout: archive
 author_profile: true
 sidebar:
   nav: "global"
 ---
-<h1>News Highlights</h1>
-
-<p class="small">Curated news highlights to help wake you up.</p>
 
 <style>
   /* Style for a lighter separator line */
@@ -46,6 +43,17 @@ sidebar:
 
 </style>
 
+
+
+<h1>Start Here</h1>
+
+1. Read these.
+2. Watch this.
+
+
+
+
+
 <table class="small-text-table">
   <thead>
     <tr>
@@ -63,7 +71,7 @@ sidebar:
       </td> -->
       <td>{{ item.publication }}</td>
       <td class="no-wrap">{{ item.date }}</td>
-      <td><a href="{{ item.url }}" target="_blank">{{ item.title }}</a> (<a href="{{ item.no-paywall }}" target="_blank">no paywall</a>)</td>
+      <td><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></td>
     </tr>
     {% endfor %}
   </tbody>

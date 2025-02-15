@@ -4,3 +4,75 @@ permalink: /
 author_profile: true
 ---
 
+
+
+<!-- Font Sizes
+<p class="small">What if I wanted something else? And just wanted to type things out here.</p>
+<p class="vsmall">What if I wanted something else? And just wanted to type things out here.</p>
+<p class="vvsmall">What if I wanted something else? And just wanted to type things out here.</p>
+-->
+
+
+<p class="small">Welcome to THE COUP EXPLAINED. Our goal is to help onboard you as quickly as possible to what's going on in America.</p>
+
+
+
+
+
+
+<!-- start coup counter 
+
+    <h2>Coup Counter</h2>
+    <p>Time Since Trump's Inauguration on January 20, 2025:</p>
+    <p id="counter"></p>
+
+    <script>
+        // Set the inauguration date and time (January 20, 2025, at 12:00 PM EST)
+        const inaugurationDate = new Date('January 20, 2025 12:00:00 EST');
+
+        function updateCounter() {
+            const now = new Date();
+            const elapsed = now - inaugurationDate;
+
+            const days = Math.floor(elapsed / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((elapsed % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((elapsed % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((elapsed % (1000 * 60)) / 1000);
+
+            document.getElementById('counter').innerText = `${days} days, ${hours} hours, ${minutes} minutes, ${seconds} seconds`;
+        }
+
+        // Update the counter every second
+        setInterval(updateCounter, 1000);
+    </script>
+
+ end coup counter -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- hide posts
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html entries=posts type=entries_layout %}
+</div>
+
+{% include paginator.html %}
+
+-->

@@ -1,15 +1,15 @@
 ---
-title: News
-permalink: /news/
+title: Statements
+permalink: /statements/
 #layout: wide
-layout: news
+layout: archive
 author_profile: true
 sidebar:
   nav: "global"
 ---
-<h1>News Highlights</h1>
+<h1>Statements</h1>
 
-<p class="small">Curated news highlights to help wake you up.</p>
+<p class="small">Statements from organizations and groups.<p>
 
 <style>
   /* Style for a lighter separator line */
@@ -55,15 +55,12 @@ sidebar:
     </tr>
   </thead>
   <tbody>
-    {% assign sorted_links = site.data.news.links | sort: "date" | reverse %}
-    {% for item in sorted_links %}
+    {% assign sorted_statements = site.data.statements.statements | sort: "date" | reverse %}
+    {% for item in sorted_statements %}
     <tr>
-<!--      <td>
-        <img src="{{ item.image }}" alt="{{ item.title }}">
-      </td> -->
-      <td>{{ item.publication }}</td>
+      <td>{{ item.organization }}</td>
       <td class="no-wrap">{{ item.date }}</td>
-      <td><a href="{{ item.url }}" target="_blank">{{ item.title }}</a> (<a href="{{ item.no-paywall }}" target="_blank">no paywall</a>)</td>
+      <td><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></td>
     </tr>
     {% endfor %}
   </tbody>
