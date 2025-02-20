@@ -8,7 +8,20 @@ links:
 #    image: ""
 #    type: "Election; Ideology; General"
 
+  - title: "The Federal Reserve Will Be Targeted for Elimination"
+    publication: "America 2.0"
+    url: "https://america2.news/the-federal-reserve-will-be-targeted-for-elimination/"
+    no-paywall: "https://america2.news/the-federal-reserve-will-be-targeted-for-elimination/"
+    date: "2025-02-12"
+    type: "federal workforce"
 
+
+  - title: "‘Took away my hope.’ Federal workers say Trump mass firings upended their lives"
+    publication: "USA Today"
+    url: "https://www.msn.com/en-us/news/us/took-away-my-hope-federal-workers-say-trump-mass-firings-upended-their-lives"
+    no-paywall: "https://www.msn.com/en-us/news/us/took-away-my-hope-federal-workers-say-trump-mass-firings-upended-their-lives"
+    date: "2025-02-16"
+    type: "federal workforce"
 
   - title: "Trump Layoffs Hit Federal Workers With Less Than a Year on Job. The latest cuts focus on roughly 200,000 probationary employees"
     publication: "Wall Street Journal"
@@ -138,6 +151,13 @@ links:
     url: "https://www.vanityfair.com/news/story/how-jd-vance-became-a-winning-spokesman-for-magas-darkest-machinations"
     no-paywall: "https://archive.ph/SNBvo"
     date: "2025-02-12"
+    type: "ideology"
+
+  - title: "The Wide Angle: Peter Thiel and the American Apocalypse"
+    publication: "The Washington Spectator"
+    url: "https://washingtonspectator.org/peter-thiel-and-the-american-apocalypse/"
+    no-paywall: "https://washingtonspectator.org/peter-thiel-and-the-american-apocalypse/"
+    date: "2024-07-30"
     type: "ideology"
 
   - title: "Inside the New Right, Where Peter Thiel Is Placing His Biggest Bets"

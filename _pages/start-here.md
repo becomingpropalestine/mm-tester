@@ -61,6 +61,9 @@ Here are some materials to help you get caught up with what's going on.
 
 <a href="https://www.politico.com/news/magazine/2025/01/30/curtis-yarvins-ideas-00201552">https://www.politico.com/news/magazine/2025/01/30/curtis-yarvins-ideas-00201552</a> (<a href="https://archive.ph/ornmJ">no paywall</a>)
 
+#### The Wide Angle: Peter Thiel and the American Apocalypse
+<a href="https://washingtonspectator.org/peter-thiel-and-the-american-apocalypse/">The Wide Angle: Peter Thiel and the American Apocalypse</a>
+
 #### Is There More to JD Vance’s MAGA Alliance Than Meets the Eye?
 
 <a href="https://www.politico.com/news/magazine/2024/09/13/jd-vance-new-right-political-movement-00177203">https://www.politico.com/news/magazine/2024/09/13/jd-vance-new-right-political-movement-00177203</a> (<a href="https://archive.ph/3qoBC">no paywall</a>)

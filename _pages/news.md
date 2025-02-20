@@ -178,10 +178,10 @@ Topic: All
     {% assign sorted_links = site.data.news.links | sort: "date" | reverse %}
     {% for item in sorted_links %}
     <tr data-type="{{ item.type }}">
+      <td><a href="{{ item.url }}" target="_blank">{{ item.title }}</a><br>(<a href="{{ item.no-paywall }}" target="_blank">no paywall</a>)</td>
+      <td class="no-wrap hide-on-mobile"><div class="highlight-test type-{{ item.type | downcase | replace: ' ', '-' }}">{{ item.type }}</div></td>
       <td>{{ item.publication }}</td>
       <td class="no-wrap">{{ item.date }}</td>
-      <td class="no-wrap hide-on-mobile"><div class="highlight-test type-{{ item.type | downcase | replace: ' ', '-' }}">{{ item.type }}</div></td>
-      <td><a href="{{ item.url }}" target="_blank">{{ item.title }}</a> (<a href="{{ item.no-paywall }}" target="_blank">no paywall</a>)</td>
     </tr>
     {% endfor %}
   </tbody>
